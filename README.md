@@ -55,7 +55,7 @@ Conflux Chain Webinar 是 Conflux 核心算法工程师精心录制的关于区�
 * 2019/6/25	[烤仔TVのCCW | 比特币轻节点原理（下）](https://mp.weixin.qq.com/s/QjDjj4P_PE49ZCT-UxTTxg)
 * 2019/6/18	[烤仔TVのCCW | 比特币轻节点原理（上）](https://mp.weixin.qq.com/s/mMt-6-RIpnD7qegzyOyRZw)
 * 2019/6/11	[烤仔TVのCCW | Conflux中冲突交易的处理](https://mp.weixin.qq.com/s/cwQH5TXN468QHcqqAQ6C_w)
-* 2019/5/27	[烤仔TVのCCW | 快速理解树图结构](ttps://mp.weixin.qq.com/s/zeCl2QPA5mdRgJ30DV8M_g)
+* 2019/5/27	[烤仔TVのCCW | 快速理解"树图结构"](https://mp.weixin.qq.com/s/zeCl2QPA5mdRgJ30DV8M_g)
 * 2019/5/14	[烤仔TVのCCW | 2分钟理解闪电网络设计思想（多点支付篇）](https://mp.weixin.qq.com/s/is46bOrvjvAMoCvOpzcefw)
 * 2019/5/7	[烤仔TVのCCW | 2分钟理解闪电网络的设计思想（两点支付篇）](https://mp.weixin.qq.com/s/M-tpSSS4Saf6oDeXJnMUzg)
 * 2019/4/23	[烤仔TVのCCW | 如何减少交易的重复打包？](https://mp.weixin.qq.com/s/aenVwBkVu9_kCMS7PFRvGQ)
